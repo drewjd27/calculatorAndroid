@@ -1,6 +1,5 @@
 package com.andrew.calculator
 
-import android.service.autofill.OnClickAction
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.shape.CircleShape
@@ -11,7 +10,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.sp
-import java.text.DateFormatSymbols
 
 @Composable
 fun CalculatorButton(
